@@ -1,0 +1,137 @@
+
+REview:
+
+Testing:TO imrove the quality
+to find the defect
+
+How: Manually/automation
+
+
+When:
+
+As soon the requimrents are freeezed
+
+When to stop 
+no critical /major functionalities are without defects
+Time
+Budget
+Customer Satisfaction
+
+
+Testing is an never ending process
+
+7 principles of testing:
+
+1.prsence of defects:
+2.Early Testing
+3.Exhaustive Testing
+it is possible but impratical to complete
+4.pesticide paradox:
+
+Tc1-----tc10
+
+
+5.defect clustering-->80-20
+6.content dependent
+7.Absence of errors/fallacy
+
+SDLc->Software Development Life cycle
+
+REquirment Analysis
+DEsign
+Development
+Testing
+Implementation/deploymnet
+Maintenance
+
+Level of Testing:
+
+DEvelopement---testing--maintenance
+unit--Integration--system--UAT
+
+
+Models:
+
+1.Sequential----------------> waterfall anmd v model
+2.Iterative and incremental----> prototype, spiral, agile
+
+Waterfall
+Vmodel
+Prototype
+Spiral
+Agile
+
+Waterfall
+
+1.Change in Requirments will not accepted during the middle of the process
+2.The client will be not allowed to view/review the process during the midlle of the process
+
+
+Advantages:
+1.the people.tech will be clear in what to do
+2. Cost of implemntation is not high
+
+Disadvantages:
+Testing is done only once
+Client sees the project only at the end stage , so the change in requiment will be very high
+Time consuming, Documentation
+
+
+V-model
+
+Both testing and Development will take place in parallel
+
+SDLC
+LEvel of testing
+
+Requirment analysis--------->SRS
+DEsign--------> HLD---LLD
+Develop--Working software
+
+REquirment----------------UAT Testing------> Test plan, Test case
+(SRs)
+
+HLD----------------->System Testing-Test plan and Test cases
+
+LLD------------> unit Testing and integration ---tst plan and test cases
+
+
+unit modeules---------> Unit Testing/Integrtatio
+system Testing-------> Functional and non funn
+UAT Testing
+
+Advantages:
+
+Changed in REquest will be accepts
+Testing is done at every level
+Complex 
+Disadvantages:
+Reqauirnent shoule be clear
+Documenmtation correctioon will be high
+
+Iterative Approach
+
+Prototpye
+sprial
+
+
+Agile
+
+User stories:
+
+As a <role>
+I want to <action>
+So that< post action>
+
+Business Analyst -------> user stories
+
+As a user
+I want to send messsages to people in my contact
+so that I can start my communication
+
+10 user stories--------------> 
+
+Poker cards-----------1 2 3 5 8 13
+
+
+
