@@ -1,0 +1,35 @@
+
+
+DEfect managemnt:
+
+
+Severity
+
+Critical
+major
+minor
+low
+
+------------------> tester
+
+Defect life cycle
+
+Tester-----------------> new
+
+Triage meeting--discussion abt the defect
+
+Stakeholders----------valid/invalid----------> rejected
+valid-----deferred 
+valid ---open
+
+opn===developers----------> fixed
+
+fixed---> testers---retesting/regression---------reopen
+closed
+
+
+tester---new, reopen, close
+developer---fixed
+stakeholders---rejected, deferred, duplicate,open
+
+jiira
