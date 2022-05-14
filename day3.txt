@@ -1,0 +1,80 @@
+
+
+post increment and pre increment operators
+
+i++----> posst incremnt
+i-------> pos decrement
+
+++i  ----> pre incremnt
+
+--i-------> predecremet
+
+System.out.println(i++);  5   6
+		
+		System.out.println(i--); 6  5
+		
+		System.out.println(++i);6  6
+		System.out.println(--i);5   5
+		**********************************************************
+FOR LOOP
+****************************
+	
+	//multiplication table
+		/*1*1=1
+		2*1=2
+		3*1=3*/
+		
+		
+		for(int i=1;i<=10;i++)
+		{
+			System.out.println(i+"*"+1+"="+(i*1));
+		}
+		
+		
+	}
+********************************************
+While loop
+********************************************************
+/*while(condition)
+	{
+		//statements
+	}*/
+		
+		int i=1;
+		while(i<=5)
+		{
+			System.out.println(i);
+			i++;
+		}
+		
+	}
+************************************
+do-while
+*****************************************
+/*do
+	{
+		
+	}while(conditions);*/
+		int i=1;
+		do
+		{
+			System.out.println(i);
+			i++;
+			
+		}while(i>=5);
+	System.out.println("while");
+
+************do and while diff**************************
+	while(i<=5)
+	{
+		System.out.println(i);
+		i=i+1;
+	}
+	
+	}
+
+
+
+**************************
+
+i%2==0
